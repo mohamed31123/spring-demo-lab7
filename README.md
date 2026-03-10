@@ -17,6 +17,16 @@ Application Spring Boot de gestion des étudiants exposant une API REST document
 
 
 
+
+
+https://github.com/user-attachments/assets/5c9aa2a3-7775-4992-9ece-285ff9c33d28
+
+
+
+## Video Demo : 
+
+
+
 ```
 
 ---
